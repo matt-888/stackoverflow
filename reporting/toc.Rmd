@@ -1,0 +1,12 @@
+```{=latex}
+
+\hfill\break
+\hfill\break
+\hfill\break
+
+\fontsize{10}{16}
+\tableofcontents
+
+```
+
+\input{./footer}

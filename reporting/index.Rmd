@@ -1,0 +1,10 @@
+---
+geometry: left = 2cm, right = 2cm, top = 0cm, bottom = 1cm, paperwidth = 21.0cm, paperheight = 29.7cm
+site: bookdown::bookdown_site
+output:
+  bookdown::pdf_document2
+---
+
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+
